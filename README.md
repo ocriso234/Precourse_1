@@ -1,2 +1,1 @@
-# Precourse_1
-Repositorio de prueba del PreCourse de Henry
+Prueba de como crear repositorio desde github y clonarlo
